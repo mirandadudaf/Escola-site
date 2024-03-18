@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <h1>Biologia, o que é?</h1>
+    <i>A Biologia é a ciência que estuda a vida, desde a sua origem, e os seres vivos, assim como suas interações.</i>
+</head>
+<body>
+    <p>A <b>Biologia</b> é a área de estudo da vida e de <u>todos os tipos de seres vivos existentes</u>, desde microscópicos, como bactérias, até os macroscópicos, 
+        como os animais, além das interações dos organismos com o ambiente e entre si, a reprodução e a evolução das espécies.</p>    
+
+        <h2>Resumo sobre Biologia</h2>
+        <li>A Biologia é o braço da ciência que estuda as diversas formas de vida e é por meio dela que se conhece importantes elementos relacionados aos seres vivos.</li>
+<li>Ela estuda vários aspectos voltados aos seres vivos e às suas interações, e baseia-se na teoria celular, na qual todo ser vivo é proveniente e composto por células, 
+    que, por sua vez, são originadas de outras pré-existentes. Todos os organismos vivos estão relacionados por meio de gerações acompanhadas de suas modificações.</li>
+<li>A evolução dos organismos vivos na Biologia está relacionada ao processo de seleção natural.</li>
+<li>O biólogo é o profissional da Biologia, e sua função é estudar a vida em todos os níveis de organização. Ele pode atuar em diversas áreas.</li>
+
+        <h3>O que é a Biologia?</h3>
+        <p>A Biologia é o <b>ramo da ciência que estuda a vida (do grego: bio = vida, logos = estudo)</b>. Tem como objetivo compreender o surgimento das <u>espécies </u>
+            bem como sua evolução, estrutura física, comportamento, reprodução e interação com o <u>meio-ambiente</u>.</p>
+
+            <p>Os seres vivos podem ser microscópicos, como os <u>fungos e as bactérias</u>, ou macroscópicos, como os animais e os vegetais. <b>Existem algumas características 
+                que fazem parte da definição do que é um organismo vivo</b>, são elas: </p>
+
+            <li>ser <u>unicelular ou pluricelular</u> (constituído por uma célula ou um conjunto de <u>células</u>);</li>
+            <li>possuir material genético (<u>DNA ou RNA</u>);</li>
+            <li>utilizar sua informação genética para a reprodução;</li>
+            <li>extrair energia do ambiente e utilizá-la como recurso;</li>
+            <li>evoluir por <u>seleção natural</u>;</li>
+            <li>regular o ambiente interno.</li>
+
+            <h4>Teoria da seleção natural</h4>
+
+            <p>A teoria da seleção natural é <b>um dos princípios mais importantes da Biologia e foi descrita por</b> <u>Charles Darwin</u>. Darwin percebeu que as características dos seres poderiam
+                estar relacionadas a um processo de adaptação decorrente do ambiente em que estavam inseridos. De acordo com essa teoria, <b>aqueles mais aptos são selecionados naturalmente
+                    e sobrevivem no meio, perpetuando a reprodução e a hereditariedade, passando seus genes adiante</b>.</p>
+            <p>Para exemplificar esse processo, pense em um habitat com árvores bem altas e que, nesse local, vive uma população de girafas. Graças as suas diferentes características, uma parte 
+                delas possui pescoço mais comprido e outra parte tem pescoço menos comprido. As de pescoço mais longo conseguem alimentar-se pegando as frutas mais altas das árvores, enquanto as de 
+                pescoço mais curto não conseguem comer.</p>
+
+</body>
+</html>
