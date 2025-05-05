@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guia Colorido de Cuidados Capilares</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #ff6b6b; /* Vermelho vibrante */
+            color: white;
+            padding: 2em;
+            text-align: center;
+            border-bottom: 5px solid #e4572e; /* Laranja escuro */
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 0.5em;
+            text-shadow: 2px 2px #333;
+        }
+
+        nav {
+            background-color: #fff;
+            padding: 1em;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        nav a {
+            color: #4ecdc4; /* Turquesa vibrante */
+            text-decoration: none;
+            padding: 0.8em 1.5em;
+            margin: 0 0.5em;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        nav a:hover {
+            background-color: #a7f0ba; /* Verde claro */
+            color: #333;
+        }
+
+        .container {
+            max-width: 960px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        .section-title {
+            color: #ffc65d; /* Amarelo vibrante */
+            font-size: 2em;
+            border-bottom: 3px solid #ffc65d;
+            padding-bottom: 0.5em;
+            margin-bottom: 1em;
+        }
+
+        .topic {
+            margin-bottom: 1.5em;
+            padding: 15px;
+            border-left: 5px solid #80ced6; /* Azul suave */
+            background-color: #f9f9f9;
+            border-radius: 5px;
+        }
+
+        .topic h2 {
+            color: #e76f51; /* Laranja queimado */
+            margin-top: 0;
+            margin-bottom: 0.5em;
+        }
+
+        .topic p {
+            line-height: 1.6;
+            color: #555;
+        }
+
+        .tip {
+            background-color: #d4edda; /* Verde pastel */
+            color: #155724;
+            padding: 1em;
+            border-radius: 5px;
+            margin-top: 1em;
+            font-style: italic;
+            border-left: 5px solid #28a745; /* Verde */
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em;
+            background-color: #333;
+            color: white;
+            position: sticky;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>✨ Guia Super Colorido para Cabelos Incríveis! ✨</h1>
+        <p style="font-size: 1.2em; color: #ffe0b2;">Descubra os segredos para madeixas radiantes e cheias de vida!</p>
+    </header>
+
+    <nav>
+        <a href="#limpeza">🧼 Limpeza Essencial</a>
+        <a href="#hidratacao">💧 Hidratação Poderosa</a>
+        <a href="#nutricao">🍎 Nutrição de Dentro para Fora</a>
+        <a href="#protecao">🛡️ Proteção Diária</a>
+        <a href="#cuidados-extras">🌸 Cuidados Especiais</a>
+    </nav>
+
+    <div class="container">
+        <section id="limpeza">
+            <h2 class="section-title">🧼 A Base de Tudo: Limpeza com Carinho</h2>
+            <div class="topic">
+                <h3>Escolhendo o Shampoo e Condicionador Ideais</h3>
+                <p>A escolha dos produtos de limpeza é crucial para a saúde do seu cabelo. Considere seu tipo de cabelo (seco, oleoso, misto) e necessidades específicas (coloração, química). Shampoos suaves limpam sem ressecar, enquanto condicionadores selam as cutículas e facilitam o desembaraço.</p>
+                <div class="tip">
+                    Dica Extra: Massageie o couro cabeludo com as pontas dos dedos durante a lavagem para estimular a circulação!
+                </div>
+            </div>
+            <div class="topic">
+                <h3>A Frequência Certa de Lavagem</h3>
+                <p>Não existe uma regra única! A frequência ideal varia. Cabelos oleosos podem precisar de lavagens mais frequentes, enquanto cabelos secos se beneficiam de intervalos maiores. Observe como seu cabelo reage e ajuste a rotina.</p>
+            </div>
+        </section>
+
+        <section id="hidratacao">
+            <h2 class="section-title">💧 Hidratação: O Segredo da Maciez e Brilho</h2>
+            <div class="topic">
+                <h3>Máscaras de Hidratação: Suas Aliadas</h3>
+                <p>As máscaras capilares repõem a umidade perdida, deixando os fios macios, maleáveis e brilhantes. Escolha máscaras com ingredientes como óleos vegetais, manteigas e aloe vera.</p>
+            </div>
+            <div class="topic">
+                <h3>Umectação: Nutrição Profunda com Óleos</h3>
+                <p>A umectação utiliza óleos vegetais puros para nutrir profundamente a fibra capilar. Experimente óleos como coco, r
